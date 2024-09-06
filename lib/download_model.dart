@@ -17,7 +17,7 @@ enum WhisperModel {
   medium('medium'),
 
   /// large model for all languages
-  large('large'),
+  large('large-v3'),
 
   /// tiny model for english only
   tinyEn('tiny.en'),
